@@ -1,0 +1,13 @@
+div {
+  box-sizing: border-box;
+  border: 1px;
+  border-color: brown;
+  width: 100%;
+  border-style: solid;
+  height: 100%;
+  background-color: aliceblue;
+  margin: 5px;
+}
+p {
+  margin: 5px;
+}
